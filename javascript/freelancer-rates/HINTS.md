@@ -13,4 +13,4 @@
 - Round down the result from division to get the number of full months.
 - `100% - discount` equals the percentage charged after the discount is applied.
 - Use `%`, the remainder operator, to calculate the number of days exceeding full months.
-- Add the discounted month rates and full day rates and round it up
+- Add the discounted month rates and full day rates and round it up.
